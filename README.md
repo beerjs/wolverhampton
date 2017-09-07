@@ -19,8 +19,7 @@ Contact
 
 Edvins Antonovs on [GitHub](https://github.com/ummahusla) or [Twitter](https://twitter.com/edvinsantonovs).
 
--------
 
 <p align="center">
-  <img height="300" src="https://secure.gravatar.com/avatar/43c360c53b793cfb13f77efcee3bd5cb?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png">
+  <img src="https://secure.gravatar.com/avatar/43c360c53b793cfb13f77efcee3bd5cb?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png">
 </p>
