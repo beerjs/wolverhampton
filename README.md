@@ -1,8 +1,6 @@
 # BeerJS Wolverhampton
 
-BeerJS Wolverhampton is a welcoming everyone who wants to learn about JavaScript. 
-
-// More description to be added soon.
+Social networking amongst like-minded individuals with a passion for JavaScript. We discuss new features, frameworks and share experience.
 
 Want to join?
 -------------
