@@ -1,10 +1,8 @@
 # BeerJS Wolverhampton
 
-=========
-
 BeerJS Wolverhampton is a welcoming everyone who wants to learn about JavaScript. 
 
-// TBC
+// More description to be added soon.
 
 Want to join?
 -------------
