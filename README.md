@@ -6,7 +6,7 @@ Want to join?
 -------------
 
 * [Watch this repo](https://github.com/beerjs/wolverhampton/watchers) to get notified of upcoming meeting dates or date and location changes.
-* Join our [BeerJS Wolverhamptopn meetup group](https://www.meetup.com/Beer-js-Wolverhampton/)
+* Join our [BeerJS Wolverhamptopn meetup group](https://www.meetup.com/Beer-js-Wolverhampton/).
 
 Why BeerJS Wolverhampton?
 --------------
