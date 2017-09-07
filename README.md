@@ -13,6 +13,7 @@ Why BeerJS Wolverhampton?
 
 * We welcome JS devs of all experience levels, including complete beginners, who seek to learn and meet new friends. 
 * We do no more planning than needed: come with your own questions or ready to answer others'. 
+* We are not require you to drink. It's fully optional.
 
 Contact
 -------
